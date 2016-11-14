@@ -1,5 +1,5 @@
 ###
-# Keycloak Nginx Dockerfile 1.1
+# Keycloak Nginx Dockerfile 1.2-SNAPSHOT
 # (c) 2016 Dennis Klein
 #
 FROM nginx

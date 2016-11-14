@@ -37,6 +37,6 @@ if [ $KEYCLOAK_HOST ] \
 
 else
 
-    echo "ERROR: please provide KEYCLOAK_HOST and KEYCLOAK_PORT"
+    echo "ERROR: please provide KEYCLOAK_HOST, KEYCLOAK_PORT and REVERSE_PROXY_PORT"
 
 fi
